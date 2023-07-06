@@ -1,0 +1,29 @@
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe.config
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\bin\Debug\Gerenciador.pdb
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\bin\Debug\Bunifu_UI_v1.5.3.dll
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.Form1.resources
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.Properties.Resources.resources
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.csproj.GenerateResource.Cache
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.exe
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.pdb
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.csprojResolveAssemblyReference.cache
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.FormsAuxiliares.FormCasa.resources
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.FormsAuxiliares.FormQRCode.resources
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\bin\Debug\zxing.dll
+D:\West\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.FormsAuxiliares.FormVisualizar.resources
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe.config
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.exe
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.pdb
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\bin\Debug\Gerenciador.pdb
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.csprojResolveAssemblyReference.cache
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.Form1.resources
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.FormsAuxiliares.FormCasa.resources
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.FormsAuxiliares.FormQRCode.resources
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.FormsAuxiliares.FormVisualizar.resources
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.Properties.Resources.resources
+E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.csproj.GenerateResource.Cache
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe.config
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\obj\Debug\Gerenciador.exe
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\obj\Debug\Gerenciador.pdb
