@@ -160,4 +160,10 @@
   <data name="VerPreto" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\VerPreto.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="img_qrcode_Branco" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img_qrcode_Branco.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="img_qrcode_preto" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\img_qrcode_preto.gif;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

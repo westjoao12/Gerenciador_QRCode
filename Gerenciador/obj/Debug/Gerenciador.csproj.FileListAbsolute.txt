@@ -24,6 +24,15 @@ E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.
 E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.FormsAuxiliares.FormVisualizar.resources
 E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.Properties.Resources.resources
 E:\Doc Shool\SCHOOLS\C#\Projectos\Gerenciador\Gerenciador\obj\Debug\Gerenciador.csproj.GenerateResource.Cache
-M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe.config
 M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\obj\Debug\Gerenciador.exe
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\obj\Debug\Gerenciador.csprojResolveAssemblyReference.cache
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\obj\Debug\Gerenciador.Form1.resources
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\obj\Debug\Gerenciador.FormsAuxiliares.FormCasa.resources
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\obj\Debug\Gerenciador.FormsAuxiliares.FormQRCode.resources
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\obj\Debug\Gerenciador.FormsAuxiliares.FormVisualizar.resources
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\obj\Debug\Gerenciador.Properties.Resources.resources
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\obj\Debug\Gerenciador.csproj.GenerateResource.Cache
 M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\obj\Debug\Gerenciador.pdb
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe.config
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\bin\Debug\Gerenciador.exe
+M:\WORK\C#\Projectos\ESCOLA\Gerenciador\Gerenciador\bin\Debug\Gerenciador.pdb

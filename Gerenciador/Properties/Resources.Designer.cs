@@ -143,6 +143,26 @@ namespace Gerenciador.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap img_qrcode_Branco {
+            get {
+                object obj = ResourceManager.GetObject("img_qrcode_Branco", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap img_qrcode_preto {
+            get {
+                object obj = ResourceManager.GetObject("img_qrcode_preto", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap OpenBranco {
             get {
                 object obj = ResourceManager.GetObject("OpenBranco", resourceCulture);

@@ -29,11 +29,13 @@ namespace Gerenciador.FormsAuxiliares
         public void TemaBranco()
         {
             this.BackColor = Color.White;
+            pictureBox1.Image = Properties.Resources.img_qrcode_Branco;
         }
 
         public void TemaPreto()
         {
             this.BackColor = Color.FromArgb(30, 30, 30);
+            pictureBox1.Image = Properties.Resources.img_qrcode_preto;
         }
     }
 }
