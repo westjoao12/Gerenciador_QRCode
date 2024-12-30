@@ -1,5 +1,5 @@
 # Gerenciador QRCode
-![InitialLayout](./Assets/Capturar1.PNG)
+![InitialLayout](./Assets/Capturar00.gif)
 
 💫Create and scan your QR code.
 <br/>💫Crie e faça leitura do seu código QR.
@@ -13,6 +13,11 @@
 - Feito com C#, WinForms + Bunifu UI
 
 ## Layout
+
+![Imagem1](./Assets/Capturar1.PNG)
+- Home screen
+- Tela Inicial
+
 ![Imagem2](./Assets/Capturar2.PNG)
 - Choose between generating a new Qr or viewing an existing.
 - Escolher entre gerar um Qr ou visualizar um já existente.
